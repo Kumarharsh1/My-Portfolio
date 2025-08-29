@@ -1,43 +1,47 @@
-# My Portfolio Website
+# MERN Stack Portfolio Website
 
-A professional portfolio website showcasing my skills, experience, projects, and education. Built with HTML, CSS, and JavaScript, and deployed on Railway.
+A full-stack portfolio website built with the MERN stack (MongoDB, Express.js, React, Node.js), featuring a responsive design, visitor tracking, and backend API integration.
 
-## Live Demo
+## 🌐 Live Demo
+**Portfolio Link**: [kumarharshportfoilo.up.railway.app](https://kumarharshportfoilo.up.railway.app)
 
-🌐 **Live Website**: [kumarharshportfoilo.up.railway.app](https://kumarharshportfoilo.up.railway.app)
+## 🛠️ Technology Stack
 
-## Features
+### Frontend
+- **React** - Frontend library for building user interfaces
+- **HTML5** / **CSS3** - Structure and styling
+- **JavaScript (ES6+)** - Client-side functionality
+- **Axios/Fetch** - API communication
 
-- Responsive design that works on all devices
-- Professional layout with clear sections
-- Skills showcase with categorized technical abilities
-- Project gallery with live demos
-- Experience and education timeline
-- Contact information with direct links
-- Visitor counter functionality
-- Optimized for Railway deployment
+### Backend
+- **Node.js** - JavaScript runtime environment
+- **Express.js** - Web application framework
+- **MongoDB** - NoSQL database for data storage
+- **Mongoose** - MongoDB object modeling
 
-## Sections Included
+### Deployment
+- **Railway** - Full-stack deployment platform
+- **MongoDB Atlas** - Cloud database service
 
-1. **Professional Summary** - Overview of my background and expertise
-2. **Contact Information** - Address, email, phone, and social links
-3. **Technical Skills** - Categorized list of my technical capabilities
-4. **Work Experience** - Detailed professional experience
-5. **Education** - Academic background and qualifications
-6. **Certifications** - Professional certifications with links
-7. **Projects** - Portfolio of completed projects with live demos
+## 📋 Features
 
-## Technology Stack
+- **Full CRUD Operations** - Create, Read, Update, Delete capabilities
+- **Visitor Tracking System** - MongoDB-powered visitor counter
+- **Contact Form with Database Storage** - Messages saved to MongoDB
+- **RESTful API** - Custom endpoints for portfolio data
+- **Responsive Design** - Works on all device sizes
+- **Dynamic Content** - Content managed through database
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Icons**: Font Awesome
-- **Deployment**: Railway
-- **Visitor Tracking**: LocalStorage API
+## 🚀 Installation & Local Development
 
-## Local Development
+### Prerequisites
+- Node.js (v14 or higher)
+- MongoDB Atlas account or local MongoDB installation
+- Git
 
-To run this portfolio locally:
+### Setup Instructions
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Kumarharsh1/My-Portfolio.git
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Kumarharsh1/My-Portfolio.git
+   cd My-Portfolio
